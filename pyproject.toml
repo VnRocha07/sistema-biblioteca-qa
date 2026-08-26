@@ -1,0 +1,8 @@
+[project]
+name = "sistema-biblioteca-qa"
+version = "0.1.0"
+description = "Sistema de emprestimos da Biblioteca Municipal - alvo de auditoria das UCs de Garantia da Qualidade e de Banco de Dados"
+requires-python = ">=3.13"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

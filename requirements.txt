@@ -1,0 +1,4 @@
+# O sistema roda com a biblioteca padrao do Python 3.13.
+# Para testar, instale o pytest:
+pytest>=8.0
+pytest-cov>=5.0

@@ -1,0 +1,27 @@
+{
+  "name": "sistema-biblioteca-qa",
+  "version": "1.0.0",
+  "description": "Sistema de empréstimos da **Biblioteca Municipal**. É o software **sob auditoria** de\r duas disciplinas do Prof. Petros Barreto, na UNIFG:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VnRocha07/sistema-biblioteca-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/VnRocha07/sistema-biblioteca-qa/issues"
+  },
+  "homepage": "https://github.com/VnRocha07/sistema-biblioteca-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  }
+}

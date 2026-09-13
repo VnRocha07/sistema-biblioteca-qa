@@ -5,4 +5,7 @@ __pycache__/
 *.sqlite
 .pytest_cache/
 .coverage
+.env
+node_modules/
 htmlcov/
+
